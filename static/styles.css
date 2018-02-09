@@ -1,0 +1,5 @@
+body            { color: #19FF00; font-family: "Courier New"; background: #190000; }
+a, h1, h2       { color: #19FF00; }
+h1, h2          { font-family: 'Georgia', serif; margin: 0; }
+h1              { border-bottom: 2px solid #eee; }
+h2              { font-size: 1.2em; }
